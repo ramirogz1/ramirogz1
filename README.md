@@ -1,6 +1,7 @@
 <h1 align="center">Hola! 👋 Mi nombre es Ramiro Javier Gonzalez</h1>
 
 <h2 align="center">👩‍💻 Desarrollador Web Full Stack formado en la academia HENRY.</h2>
+
 ![image](https://user-images.githubusercontent.com/105139169/200481147-b10b6401-bb25-449e-b8fc-fedf078a7f8b.png)
 
 <h2>💻 HABILIDADES TECNICAS:</h2>
@@ -18,8 +19,7 @@
 <h2>🎯 PROYECTOS:</h2>
 <h3 align="center">Proyecto (Single Page Application) Dogs App</h3>
 <p align="center">
-  <img height="500" src="![Desktop Screenshot 2022 11 08 - 02 27 53 08](https://user-images.githubusercontent.com/105139169/200483069-6c9b65dd-ed78-4527-a5ed-7a73334c04a2.png)
-" />
+  ![Desktop Screenshot 2022 11 08 - 02 27 53 08](https://user-images.githubusercontent.com/105139169/200483069-6c9b65dd-ed78-4527-a5ed-7a73334c04a2.png)
 </p>
 <p>🔹Consume datos de thedog API.</p>
 <p>🔹Posee con base de datos creada en PostgreSQL.</p>

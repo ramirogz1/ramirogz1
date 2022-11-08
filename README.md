@@ -26,7 +26,7 @@
 <p>🔹Posee con base de datos creada en PostgreSQL.</p>
 <p>🔹Backend desarrollado con NodeJS utilizando Express.</p>
 <p>🔹Frontend realizado con ReactJS & Redux, ademas CSS puro.</p>
-<p>🔹Ordenamiento por nombre y peso, filtro por temperamento y origne y busqueda por raza.</p>
+<p>🔹Ordenamiento por nombre y peso, filtro por temperamento y origen y busqueda por raza.</p>
 <p>🔹Detalle y formulario de creacion de una raza de perro.</p>
 <b>🔹Link del proyecto:https://pi-dogs-rosy-pi.vercel.app/ </b>
 

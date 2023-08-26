@@ -18,17 +18,17 @@
 
 <br>
 <h2>🎯 PROYECTOS:</h2>
-<h3 align="center">Proyecto (Single Page Application) Dogs App</h3>
+<h3 align="center">Proyecto (Single Page Application) Pokemon App</h3>
 <p align="center">
 
 </p>
-<p>🔹Consume datos de thedog API.</p>
+<p>🔹Consume datos de pokemon API.</p>
 <p>🔹Posee con base de datos creada en PostgreSQL.</p>
 <p>🔹Backend desarrollado con NodeJS utilizando Express.</p>
-<p>🔹Frontend realizado con ReactJS & Redux, ademas CSS puro.</p>
-<p>🔹Ordenamiento por nombre y peso, filtro por temperamento y origen y busqueda por raza.</p>
-<p>🔹Detalle y formulario de creacion de una raza de perro.</p>
-<b>🔹Link del proyecto:https://pi-dogs-rosy-pi.vercel.app/ </b>
+<p>🔹Frontend realizado con ReactJS & Redux, ademas Bootstrap</p>
+<p>🔹Ordenamiento por nombre y ataque, filtro por tipo y origen y busqueda por pokemon</p>
+<p>🔹Detalle y formulario de creacion de un pokemon.</p>
+<b>🔹Link del proyecto: https://spa-pokemon.vercel.app/ </b>
 
 
 <!--
